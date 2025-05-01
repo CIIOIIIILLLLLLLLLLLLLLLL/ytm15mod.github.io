@@ -1,4 +1,4 @@
-# YouTube Mobile 2015/YTm15
+# YouTube Mobile 2018/YTm18
 A frontend/web-client for YouTube mobile based off the 2015 YT app for Android
 
 ## Want a desktop version instead?
